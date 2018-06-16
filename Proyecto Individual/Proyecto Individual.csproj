@@ -60,6 +60,9 @@
     <Compile Include="registro.xaml.cs">
       <DependentUpon>registro.xaml</DependentUpon>
     </Compile>
+    <Compile Include="RegistroMascota.xaml.cs">
+      <DependentUpon>RegistroMascota.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Sucursales.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -80,6 +83,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="registro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegistroMascota.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

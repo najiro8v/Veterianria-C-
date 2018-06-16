@@ -127,7 +127,7 @@ namespace Proyecto_Individual
 
         private void agregarMasc_Click(object sender, RoutedEventArgs e)
         {
-            registro nuevo = new registro();
+            RegistroMascota nuevo = new RegistroMascota();
             nuevo.ShowDialog();
         }
     }

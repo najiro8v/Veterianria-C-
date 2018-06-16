@@ -41,7 +41,7 @@ namespace Proyecto_Individual
                 IFormatter formatter = new BinaryFormatter();
                 Stream lstream = new FileStream("contactos.txt", FileMode.Open, FileAccess.Read, FileShare.None);
                 mnj = (manejador_De_Archivos)formatter.Deserialize(lstream);
-               
+
                 lstream.Close();
 
             }
@@ -49,7 +49,7 @@ namespace Proyecto_Individual
             List<Dueño> temp = mnj.obtenerCont();
             foreach (Dueño mtemp in temp)
             {
-                
+
                 if (mtemp.Usuario1.Equals(usuario.Text))
                 {
                     MessageBox.Show("usuario encontrado");
