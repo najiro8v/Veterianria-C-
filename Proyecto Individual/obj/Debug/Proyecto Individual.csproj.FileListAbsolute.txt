@@ -1,0 +1,19 @@
+D:\C#\Proyecto Individual\Proyecto Individual\bin\Debug\Proyecto Individual.exe.config
+D:\C#\Proyecto Individual\Proyecto Individual\bin\Debug\Proyecto Individual.exe
+D:\C#\Proyecto Individual\Proyecto Individual\bin\Debug\Proyecto Individual.pdb
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\MainWindow.g.cs
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\App.g.cs
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual_MarkupCompile.cache
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual_MarkupCompile.lref
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\MainWindow.baml
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual.g.resources
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto_Individual.Properties.Resources.resources
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual.csproj.GenerateResource.cache
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual.csproj.CoreCompileInputs.cache
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual.exe
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual.pdb
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\registro.g.cs
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\registro.baml
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Principal.g.cs
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Principal.baml
+D:\C#\Proyecto Individual\Proyecto Individual\obj\Debug\Proyecto Individual.csprojResolveAssemblyReference.cache
